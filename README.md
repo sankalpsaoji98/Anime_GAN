@@ -1,7 +1,5 @@
 # Anime GAN Project
 
-<img src="https://github.com/sankalpsaoji98/Anime-GAN-Project/assets/26198596/c8f36d1f-35a4-4dd7-8828-f27330ebfc40" alt="Anime GAN Project" width="10%">
-
 ## Introduction
 
 The Anime GAN Project utilizes Generative Adversarial Networks (GANs) to generate anime-style images. This project leverages deep learning techniques to create high-quality, stylistic images from random noise.
